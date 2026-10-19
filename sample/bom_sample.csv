@@ -1,0 +1,9 @@
+part_number,description,material,process,qty,unit_cost,unit
+BRK-001,Motor mounting bracket,Aluminium 6061,CNC milling,4,850,pcs
+PLT-002,Base plate 300x200x6,Mild steel,Laser cut + bend,1,1200,pcs
+SHF-003,Drive shaft D12 x 150,EN8 steel,CNC turning,2,640,pcs
+BRG-004,Deep groove ball bearing 6201,Steel,Bought-out,4,95,pcs
+SCR-005,M5x12 socket head cap screw,Stainless A2,Bought-out,24,6,pcs
+COV-006,Electronics cover,PETG,3D printing,1,450,pcs
+SPC-007,Standoff M3x10,Brass,Bought-out,8,12,pcs
+GRP-008,Gripper finger,PA12 Nylon,3D printing,2,380,pcs
